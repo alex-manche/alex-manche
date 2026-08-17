@@ -27,8 +27,6 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 
 ### Tools
 
-`VASP` · `CRYSTAL` · `CASTEP` ·`Python` · `pymatgen` · `doped` · `doped-spectra` · `ShakeNBreak` · `phonopy` · `Git` · `Linux/HPC` · `MACE` · `NequiP/Allegro` · `NEP/GPUMD`
-=======
 `VASP` · `CRYSTAL` · `CASTEP` · `Python` · `pymatgen` · `doped` · `doped-spectra` · `ShakeNBreak` · `phonopy` · `Git` · `Linux/HPC` · `MACE` · `NequIP/Allegro` · `NEP/GPUMD`
 
 ### Current software
