@@ -9,13 +9,13 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 - Point defects & defect thermodynamics
 - DFT, charge localisation & small polarons
 - Ion migration and coupled ion-electron transport
-- Raman / IR / X-ray spectroscopy from atomistic models
+- Spectroscopy from atomistic models
 - Sodium-ion and lithium-ion battery materials
 - Reproducible scientific software and HPC workflows
 
 ### Tools
 
-`VASP` · `Python` · `pymatgen` · `doped` · `ShakeNBreak` · `phonopy` · `Git` · `Linux/HPC`
+`VASP` · `CRYSTAL` · `CASTEP` ·`Python` · `pymatgen` · `doped` · `doped-spectra` · `ShakeNBreak` · `phonopy` · `Git` · `Linux/HPC` · `MACE` · `NequiP/Allegro` · `NEP/GPUMD`
 
 ### Current software
 
