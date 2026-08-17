@@ -1,4 +1,4 @@
-# Hi, I'm Alexis Manche
+# Hi! 👋
 
 **Computational materials researcher** working on point defects, electronic structure, spectroscopy and energy materials.
 
