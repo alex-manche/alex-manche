@@ -36,4 +36,6 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 
 ### Find me
 
-[Website](https://alex-manche.github.io) · [ORCID](https://orcid.org/0000-0002-8505-474X) · [University of Birmingham profile](https://research.birmingham.ac.uk/en/persons/alexis-manche/)
+[![Website](https://img.shields.io/badge/Website-alex--manche.github.io-181717?style=flat&logo=github&logoColor=white)](https://alex-manche.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8505--474X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8505-474X)
+[![University of Birmingham](https://img.shields.io/badge/University_of_Birmingham-Profile-1565C0?style=flat&logo=googlescholar&logoColor=white)](https://research.birmingham.ac.uk/en/persons/alexis-manche/)
