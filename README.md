@@ -37,5 +37,7 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 ### Find me
 
 [![Website](https://img.shields.io/badge/Website-alex--manche.github.io-181717?style=flat&logo=github&logoColor=white)](https://alex-manche.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.fr/citations?user=y58yrZAAAAAJ&hl=fr)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8505--474X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8505-474X)
-[![University of Birmingham](https://img.shields.io/badge/University_of_Birmingham-Profile-1565C0?style=flat&logo=googlescholar&logoColor=white)](https://research.birmingham.ac.uk/en/persons/alexis-manche/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexismanche-na-ion-battery/)
+[![University of Birmingham](https://img.shields.io/badge/University_of_Birmingham-Profile-1565C0?style=flat)](https://research.birmingham.ac.uk/en/persons/alexis-manche/)
