@@ -33,6 +33,7 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 
 - [Phonopy-Spectroscopy](https://github.com/alex-manche/Phonopy-Spectroscopy) — vibrational spectroscopy workflows
 - **doped-spectra** — developing defect-to-spectroscopy tooling for analysing how dopants and point defects alter calculated spectra
+- [AmorphGen](https://github.com/SMTG-Bham/AmorphGen) — contributing EXAFS analysis: geometric shell descriptors, Gaussian-fit bias checks and ensemble-averaged FEFF spectra
 
 ### Find me
 
