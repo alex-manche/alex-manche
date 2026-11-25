@@ -2,15 +2,17 @@
 
 **Computational materials researcher** working on point defects, electronic structure, spectroscopy and energy materials.
 
-I am a Research Fellow in the School of Chemistry at the University of Birmingham. My work uses first-principles modelling to understand how defects, dopants, charge localisation and ion migration control the behaviour of functional materials, particularly battery electrodes.
+I am a Research Fellow in the School of Chemistry at the University of Birmingham. My work uses first-principles modelling to understand how defects, dopants, charge localisation and ion migration control the behaviour of functional materials.
 
 ### Research focus
 
 - Point defects & defect thermodynamics
-- DFT, charge localisation
+- Charge localisation
 - Ion migration and coupled ion-electron transport
 - Spectroscopy from atomistic models
 - Sodium-ion and lithium-ion battery materials
+- Functional Materials
+- Density Functional Theory
 - Machine learning for atomistic modelling
 - Reproducible scientific software and HPC workflows
 
@@ -33,7 +35,7 @@ I am a Research Fellow in the School of Chemistry at the University of Birmingha
 
 - [Phonopy-Spectroscopy](https://github.com/alex-manche/Phonopy-Spectroscopy) — vibrational spectroscopy workflows
 - **doped-spectra** — developing defect-to-spectroscopy tooling for analysing how dopants and point defects alter calculated spectra
-- [AmorphGen](https://github.com/SMTG-Bham/AmorphGen) — A Python package for amorphous structure generation by melt-quench simulation and random placement. Contributing EXAFS analysis, geometric shell descriptors, Gaussian-fit bias checks and ensemble-averaged FEFF spectra (https://doi.org/10.48550/arXiv.2611.29539)
+- [AmorphGen](https://github.com/SMTG-Bham/AmorphGen) — A Python package for amorphous structure generation by melt-quench simulation and random placement. Contributing spectroscopy analysis, geometric shell descriptors, Gaussian-fit bias checks and ensemble-averaged FEFF spectra (https://doi.org/10.48550/arXiv.2611.29539)
 
 ### Find me
 
